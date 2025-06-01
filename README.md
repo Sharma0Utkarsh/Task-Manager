@@ -31,8 +31,7 @@ Productivity-Master/
 ├── app.js              # Express server logic
 ├── server.js           # Entry point and DB connection
 ├── Task.js             # Mongoose schema for task management
-🖥️ Screenshots
-(Add screenshots or screen recordings here to visually represent your project UI)
+
 
 ⚙️ Setup Instructions
 Clone the repository
