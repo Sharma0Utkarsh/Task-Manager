@@ -244,7 +244,7 @@ const API_KEY = "AIzaSyCe9z9fVRfuMmvQROCcqiNoGPIaxwwelHY";
 
       start()
 
-      const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`, {
+      const res = await fetch(`Own Api Key`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -299,4 +299,5 @@ function toggleChat() {
   }
 }
 // Initial Load
+
 fetchTasks();
